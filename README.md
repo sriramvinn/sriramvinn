@@ -1,8 +1,8 @@
 ### Hi, I'm sriram
 ## I'm a post graduate student in Queen Mary University of London, persuing MSc FT Artificial Inteligence
-[![bg][banner]]
+![bg][banner]
 
-<!--
+
 **sriramvinn/sriramvinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about mathematics problems
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: can solve 3*3, 4*4, 5*5 and mirror cubes; i can also solve Mastermorphix
--->
 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
 
