@@ -12,7 +12,7 @@
 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: https://github.com/sriramvinn/sriramvinn/blob/main/snapimg.png
 [typescript]: https://www.typescriptlang.org
 [instagram]: https://www.instagram.com/sriramvinnakota/
 [linkedin]: linkedin.com/in/sriram-vinnakota-2b47ba221
