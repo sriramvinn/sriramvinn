@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with nlp
 - 💬 Ask me about mathematics problems
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: can solve 3*3, 4*4, 5*5 and mirror cubes; i can also solve Mastermorphix
+- ⚡ Fun fact: can solve 3* 3, 4* 4, 5* 5 and mirror cubes; i can also solve Mastermorphix
 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
 
