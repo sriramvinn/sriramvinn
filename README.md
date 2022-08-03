@@ -1,5 +1,5 @@
 ### Hi, I'm sriram
-## I'm a post graduate student in Queen Mary University of London, persuing MSc FT Artificial Inteligence
+## I'm a Master's student in Queen Mary University of London, persuing MSc FT Artificial Inteligence
 ![bg][banner]
 
 - 🔭 I’m currently working on live face recognition
