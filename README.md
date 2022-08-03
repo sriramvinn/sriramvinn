@@ -3,10 +3,9 @@
 ![bg][banner]
 
 - 🔭 I’m currently working on live face recognition
-- 🌱 I’m currently learning Msc Artificial Intelligence
+- 🌱 I’m currently searching for ML roles to apply
 - 👯 I’m looking to collaborate on AI projects
-- 🤔 I’m looking for help with nlp
-- 💬 Ask me about mathematics problems
+- 💬 Ask me about ML and mathematics problems
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: can solve 3* 3, 4* 4, 5* 5 and mirror cubes; i can also solve Mastermorphix
 📷 [instagram][instagram] **|**
